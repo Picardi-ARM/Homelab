@@ -39,3 +39,7 @@ Le cose più utili per me sono PC, workstation o mini PC funzionanti dal 2016 in
 - Tutto quello che ricevo gratis sarà elencato qui, con un grazie a chi me l'ha dato.
 
 Tengo anche traccia di come va questo progetto, come un piccolo esperimento: quante persone e aziende rispondono, e cosa aiuta. Racconterò qui quello che imparo, senza nominare chi dice di no.
+
+## Contatti
+
+Se hai hardware per il mio laboratorio, o vuoi solo scrivermi: **armando [at] picardi [dot] net**. Se hai un account GitHub, puoi anche aprire una issue in questo repository.
