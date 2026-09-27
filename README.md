@@ -39,3 +39,7 @@ The most useful things for me are working PCs, workstations or mini PCs from 201
 - Everything I receive for free will be listed here, with credit to whoever gave it.
 
 I'm also keeping track of how this project goes, as a small experiment: how many people and companies answer, and what helps. I'll share what I learn here, without naming anyone who says no.
+
+## Contact
+
+If you have hardware for my lab, or you just want to say hi, write to me at **armando [at] picardi [dot] net**. If you have a GitHub account, you can also open an issue in this repository.
