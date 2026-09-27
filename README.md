@@ -2,7 +2,7 @@
 
 # My homelab
 
-I'm a physics student in Naples, Italy. I want to learn programming and Linux system administration, and understand PC hardware better. I'd also like to run my own services and keep my data at home instead of relying on cloud providers. My homelab is where I practice.
+I'm a physics student at the University of Naples Federico II, in Italy. I want to learn programming and Linux system administration, and understand PC hardware better. I'd also like to run my own services and keep my data at home instead of relying on cloud providers. My homelab is where I practice.
 
 ## What I have now
 
