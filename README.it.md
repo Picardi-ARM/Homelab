@@ -2,7 +2,7 @@
 
 # Il mio homelab
 
-Sono uno studente di fisica a Napoli. Voglio imparare a programmare e a gestire sistemi Linux, e capire meglio l'hardware dei PC. Vorrei anche far girare i miei servizi e tenere i miei dati a casa, invece di affidarmi ai servizi cloud. Il mio homelab è il posto dove mi esercito.
+Sono uno studente di fisica all'Università di Napoli Federico II. Voglio imparare a programmare e a gestire sistemi Linux, e capire meglio l'hardware dei PC. Vorrei anche far girare i miei servizi e tenere i miei dati a casa, invece di affidarmi ai servizi cloud. Il mio homelab è il posto dove mi esercito.
 
 ## Cosa ho adesso
 
