@@ -18,13 +18,14 @@ Sono uno studente di fisica all'Università di Napoli Federico II. Voglio impara
 ## Cosa sto costruendo
 
 1. **Un PC principale migliore.** Il mio è del 2012 ed è già al limite: massimo 32 GB di RAM, niente NVMe, niente AVX2. Vorrei una piattaforma più recente per programmare, usare macchine virtuali e fare calcoli di fisica.
-2. **Un server da laboratorio** nel mio vecchio case Cooler Master. Comincerò con Proxmox VE per imparare la virtualizzazione, poi aggiungerò TrueNAS SCALE per l'archiviazione. La sua scheda madre (ASUS P8P67 Deluxe) è rotta: il socket della CPU è danneggiato, e credo anche altre parti. Ho già un i5-2500K (da provare) e 32 GB di RAM DDR3 in più (4 × 8 GB), quindi il pezzo che manca di più è una scheda madre LGA1155.
+2. **Un server da laboratorio** nel mio vecchio case Cooler Master. Comincerò con Proxmox VE per imparare la virtualizzazione, poi aggiungerò TrueNAS SCALE per l'archiviazione. La sua scheda madre (ASUS P8P67 Deluxe) è rotta: il socket della CPU è danneggiato, e credo anche altre parti. Ho già un i5-2500K (da provare), 32 GB di RAM DDR3 in più (4 × 8 GB) e un Samsung 860 EVO da 250 GB per il sistema, quindi il pezzo che manca di più è una scheda madre LGA1155.
 3. **Più avanti:** una rete di casa con le VLAN e un sistema di backup fatto bene, per esercitarmi come sistemista.
 
 ## Diario
 
 - **Settembre 2026:** ho montato una seconda GPU (GT 1030) e installato Fedora 44 in dual boot con Windows 10.
 - **Settembre 2026:** ho provato CUDA su tutte e due le GPU: la GTX 1050 Ti ha finito il mio test in 19,2 s, la GT 1030 in 35,7 s.
+- **Settembre 2026:** ho comprato usato un Samsung 860 EVO da 250 GB per il server del laboratorio. Con `smartctl` (salute al 97%, circa 10 TB scritti, nessun errore) e cancellato con `blkdiscard`.
 
 ## L'hardware che cerco
 
