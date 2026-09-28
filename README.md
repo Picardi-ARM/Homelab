@@ -18,13 +18,14 @@ I'm a physics student at the University of Naples Federico II, in Italy. I want 
 ## What I'm building
 
 1. **A better main PC.** Mine is from 2012 and already at its limits: 32 GB of RAM at most, no NVMe, no AVX2. I'd like a newer platform for programming, virtual machines and physics computations.
-2. **A lab server** in my old Cooler Master case. I'll start with Proxmox VE to learn virtualization, then add TrueNAS SCALE for storage. Its motherboard (ASUS P8P67 Deluxe) is broken: the CPU socket is damaged, and I think other parts are too. I already have an i5-2500K (still to test) and 32 GB of spare DDR3 RAM (4 × 8 GB), so the main missing part is an LGA1155 motherboard.
+2. **A lab server** in my old Cooler Master case. I'll start with Proxmox VE to learn virtualization, then add TrueNAS SCALE for storage. Its motherboard (ASUS P8P67 Deluxe) is broken: the CPU socket is damaged, and I think other parts are too. I already have an i5-2500K (still to test), 32 GB of spare DDR3 RAM (4 × 8 GB) and a Samsung 860 EVO 250 GB for the system, so the main missing part is an LGA1155 motherboard.
 3. **Later:** a home network with VLANs and a proper backup setup, to practice system administration.
 
 ## Log
 
 - **September 2026:** installed a second GPU (GT 1030) and set up Fedora 44 in dual boot with Windows 10.
 - **September 2026:** tested CUDA on both GPUs: the GTX 1050 Ti finished my benchmark in 19.2 s, the GT 1030 in 35.7 s.
+- **September 2026:** bought a used Samsung 860 EVO 250 GB for the lab server. I checked it with `smartctl` (97% health, about 10 TB written, no errors) and wiped it with `blkdiscard`.
 
 ## Hardware I'm looking for
 
