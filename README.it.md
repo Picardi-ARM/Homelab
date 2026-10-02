@@ -25,11 +25,11 @@ Sono uno studente di fisica all'Università di Napoli Federico II. Voglio impara
 
 - **Settembre 2026:** ho montato una seconda GPU (GT 1030) e installato Fedora 44 in dual boot con Windows 10.
 - **Settembre 2026:** ho provato CUDA su tutte e due le GPU: la GTX 1050 Ti ha finito il mio test in 19,2 s, la GT 1030 in 35,7 s.
-- **Settembre 2026:** ho comprato usato un Samsung 860 EVO da 250 GB per il server del laboratorio. Con `smartctl` (salute al 97%, circa 10 TB scritti, nessun errore) e cancellato con `blkdiscard`.
+- **Settembre 2026:** acquistato usato un Samsung 860 EVO da 250 GB per il server del laboratorio. Controllo con `smartctl`: salute al 97%, circa 10 TB scritti, zero errori. Cancellazione completa con `blkdiscard`.
 
 ## L'hardware che cerco
 
-Le cose più utili per me sono PC, workstation o mini PC funzionanti dal 2016 in poi, e gli SSD. Anche i pezzi più vecchi servono al mio laboratorio, per esempio una scheda madre LGA1155 (H77 o Z77), hard disk o switch gestiti (gigabit o più veloci). Per semplicità non mi servono router, cavi, stampanti o switch semplici non gestiti. Posso ritirare io in tutta la Campania. Va benissimo anche la spedizione dall'Unione Europea, ma da studente non posso coprire le spese di spedizione o di dogana.
+Le cose più utili per me sono PC, workstation o mini PC funzionanti dal 2016 in poi (meglio ancora dal 2018), e gli SSD. Anche i pezzi più vecchi servono al mio laboratorio, per esempio una scheda madre LGA1155 (H77 o Z77) o hard disk. Per semplicità non mi servono router, switch, cavi, stampanti, case vuoti o laptop interi (gli SSD tolti dai laptop vanno benissimo). Posso ritirare io in tutta la Campania. Va benissimo anche la spedizione dall'Unione Europea, ma da studente non posso coprire le spese di spedizione o di dogana.
 
 **Se siete un'azienda:** i dischi mi fanno comodo. Potete cancellarli voi prima di darmeli, oppure li cancello io davanti a voi. Se preferite tenerli, prendo volentieri i PC senza dischi. Posso anche firmare un foglio con l'elenco di quello che ricevo.
 
