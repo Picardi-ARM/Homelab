@@ -15,6 +15,14 @@ I'm a physics student at the University of Naples Federico II, in Italy. I want 
 | Storage | Samsung 850 EVO 250 GB + Crucial MX500 1 TB |
 | OS | Fedora 44, dual boot with Windows 10 |
 
+## Photos
+
+My current desktop. Top: inside. Bottom left: motherboard, CPU cooler and GPU. Bottom right: back panel with both GPUs.
+
+![Inside my current PC](images/setup-inside.jpg)
+
+<img src="images/setup-motherboard.jpg" alt="Motherboard, CPU cooler and GPU" width="49%"> <img src="images/setup-back.jpg" alt="Back panel with both GPUs" width="49%">
+
 ## What I'm building
 
 1. **A better main PC.** Mine is from 2012 and already at its limits: 32 GB of RAM at most, no NVMe, no AVX2. I'd like a newer platform for programming, virtual machines and physics computations.
