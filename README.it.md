@@ -15,6 +15,14 @@ Sono uno studente di fisica all'Università di Napoli Federico II. Voglio impara
 | Archiviazione | Samsung 850 EVO 250 GB + Crucial MX500 1 TB |
 | Sistema | Fedora 44, in dual boot con Windows 10 |
 
+## Foto
+
+Il mio desktop attuale. In alto: l'interno. In basso a sinistra: scheda madre, dissipatore della CPU e GPU. In basso a destra: il retro, con le due GPU.
+
+![L'interno del mio PC attuale](images/setup-inside.jpg)
+
+<img src="images/setup-motherboard.jpg" alt="Scheda madre, dissipatore della CPU e GPU" width="49%"> <img src="images/setup-back.jpg" alt="Il retro con le due GPU" width="49%">
+
 ## Cosa sto costruendo
 
 1. **Un PC principale migliore.** Il mio è del 2012 ed è già al limite: massimo 32 GB di RAM, niente NVMe, niente AVX2. Vorrei una piattaforma più recente per programmare, usare macchine virtuali e fare calcoli di fisica.
