@@ -25,11 +25,11 @@ I'm a physics student at the University of Naples Federico II, in Italy. I want 
 
 - **September 2026:** installed a second GPU (GT 1030) and set up Fedora 44 in dual boot with Windows 10.
 - **September 2026:** tested CUDA on both GPUs: the GTX 1050 Ti finished my benchmark in 19.2 s, the GT 1030 in 35.7 s.
-- **September 2026:** bought a used Samsung 860 EVO 250 GB for the lab server. I checked it with `smartctl` (97% health, about 10 TB written, no errors) and wiped it with `blkdiscard`.
+- **September 2026:** bought a used Samsung 860 EVO 250 GB for the lab server. `smartctl` check: 97% health, about 10 TB written, zero errors. Full wipe with `blkdiscard`.
 
 ## Hardware I'm looking for
 
-The most useful things for me are working PCs, workstations or mini PCs from 2016 or newer, and SSDs. Older parts still help my lab, for example an LGA1155 motherboard (H77 or Z77), hard drives or managed switches (gigabit or faster). To keep things simple, I don't need routers, cables, printers or basic unmanaged switches. I can pick up anywhere in Campania. Shipping from within the EU is welcome too, but as a student I can't cover shipping or customs costs.
+The most useful things for me are working PCs, workstations or mini PCs from 2016 or newer (2018 or newer is even better), and SSDs. Older parts still help my lab, for example an LGA1155 motherboard (H77 or Z77) or hard drives. To keep things simple, I don't need routers, switches, cables, printers, empty cases or whole laptops (SSDs taken out of laptops are very welcome). I can pick up anywhere in Campania. Shipping from within the EU is welcome too, but as a student I can't cover shipping or customs costs.
 
 **If you're a company:** drives are welcome too. You can wipe them before handing them over, or I can wipe them in front of you. If you'd rather keep them, I'm happy to take the PCs without drives. I can also sign a short note listing what I received.
 
